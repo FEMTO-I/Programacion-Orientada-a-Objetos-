@@ -1,2 +1,2 @@
 # Programacion-Orientada-a-Objetos-
-curso enero-junio 2020
+Curso Enero-Junio 2020
